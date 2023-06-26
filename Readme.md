@@ -1,4 +1,6 @@
+Diskussion:
 https://community.sunrise.ch/d/26226-fritzbox-5530-xgs-pon-sunrise-glasfaser-anschluss/29
+----------------
 
 Welcome to the sunrise-xgs-pon-5530 wiki!
 
